@@ -7,7 +7,7 @@ var imgHeight = 170; // độ cao ảnh (tính theo px)
 
 // Link nhạc nền - cho bằng null nếu không muốn nhạc nền
 // var bgMusicURL = 'https://api.soundcloud.com/tracks/143041228/stream?client_id=587aa2d384f7333a886010d5f52f302a';
-var bgMusicURL = 'muonroimasaocon.mp3'; 
+var bgMusicURL = 'roitoilun.mp3'; 
 var bgMusicControls = true; // Hiện khung điều khiển nhạc nền hay không
 
 /*
